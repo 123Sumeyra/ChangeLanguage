@@ -4,6 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/asus/Desktop/NewLanguage/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/Users/asus/Desktop/NewLanguage/app/src/main/res/layout/fragment_dashboard.xml" value="0.1796875" />
+        <entry key="..\:/Users/asus/Desktop/NewLanguage/app/src/main/res/layout/fragment_home.xml" value="0.1796875" />
+        <entry key="..\:/Users/asus/Desktop/NewLanguage/app/src/main/res/layout/fragment_notifications.xml" value="0.1796875" />
         <entry key="..\:/Users/asus/Desktop/NewLanguage/app/src/main/res/menu/add_language.xml" value="0.22" />
         <entry key="..\:/Users/asus/Desktop/NewLanguage/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1" />
       </map>
